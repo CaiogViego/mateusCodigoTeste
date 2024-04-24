@@ -6,7 +6,7 @@ function CaiosPage() {
   return (
     <>
 
-      <Title>CaiosPage</Title>
+      <Title>Caige</Title>
       <Container color='red' borderColor='blue'>Container</Container>
     </>
   );
